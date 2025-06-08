@@ -1,2 +1,436 @@
 destination:
-  service: 'hello'
+  service: '{
+    "data": [
+        {
+            "sales_org": "4900",
+            "country": "VN",
+            "target_system": "BYD",
+            "system_url": "https://my361994.sapbydesign.com"
+        },
+        {
+            "sales_org": "2100",
+            "country": "CH",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "6000",
+            "country": "US",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "7500",
+            "country": "IT",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8850",
+            "country": "HR",
+            "target_system": "S4C",
+            "system_url": "https://my411791-api.s4hana.cloud.sap"
+        },
+        {
+            "sales_org": "3400",
+            "country": "EE",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0300",
+            "country": "CN",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9999",
+            "country": "XX",
+            "target_system": "BYD",
+            "system_url": "https://internal-hc-test-echo-alb-850341035.eu-west-1.elb.amazonaws.com/tenant/byd"
+        },
+        {
+            "sales_org": "8400",
+            "country": "SK",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8350",
+            "country": "BA",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "8300",
+            "country": "BR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4300",
+            "country": "IN",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "4400",
+            "country": "GB",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8650",
+            "country": "CL",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3900",
+            "country": "ID",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "2800",
+            "country": "JP",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8900",
+            "country": "BG",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0001",
+            "country": "AT",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3000",
+            "country": "MX",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0900",
+            "country": "GP",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0900",
+            "country": "MC",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8750",
+            "country": "AR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9150",
+            "country": "ZA",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0700",
+            "country": "BE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2600",
+            "country": "SE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3300",
+            "country": "FI",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3200",
+            "country": "PT",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3500",
+            "country": "LV",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "2300",
+            "country": "MO",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9900",
+            "country": "PE",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "2500",
+            "country": "AU",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8590",
+            "country": "ME",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "8800",
+            "country": "UA",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "7500",
+            "country": "VA",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3700",
+            "country": "KR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2100",
+            "country": "LI",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8600",
+            "country": "RO",
+            "target_system": "BYD",
+            "system_url": "https://my337669.sapbydesign.com"
+        },
+        {
+            "sales_org": "3600",
+            "country": "LT",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "8550",
+            "country": "RS",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "4000",
+            "country": "TH",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0290",
+            "country": "BH",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0800",
+            "country": "NL",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9000",
+            "country": "GR",
+            "target_system": "BYD",
+            "system_url": "https://my347799.sapbydesign.com"
+        },
+        {
+            "sales_org": "5000",
+            "country": "DE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0900",
+            "country": "PF",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4200",
+            "country": "MY",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2900",
+            "country": "SG",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8150",
+            "country": "QA",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "9998",
+            "country": "XY",
+            "target_system": "S4C",
+            "system_url": "https://internal-hc-test-echo-alb-850341035.eu-west-1.elb.amazonaws.com/tenant/s4c"
+        },
+        {
+            "sales_org": "4950",
+            "country": "BY",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "9050",
+            "country": "TR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0125",
+            "country": "CO",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "9100",
+            "country": "IL",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "4991",
+            "country": "KW",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0900",
+            "country": "NC",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4100",
+            "country": "PH",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4600",
+            "country": "IE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0900",
+            "country": "YT",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4800",
+            "country": "DZ",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "8200",
+            "country": "CZ",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2000",
+            "country": "VE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0900",
+            "country": "RE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2300",
+            "country": "HK",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9750",
+            "country": "KZ",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0900",
+            "country": "MQ",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8500",
+            "country": "SI",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "9800",
+            "country": "RU",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2250",
+            "country": "MA",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "3800",
+            "country": "TW",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4999",
+            "country": "OM",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "0900",
+            "country": "FR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2700",
+            "country": "DK",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0225",
+            "country": "SY",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "7000",
+            "country": "ES",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8450",
+            "country": "HU",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "3100",
+            "country": "PL",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "8100",
+            "country": "PA",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "4850",
+            "country": "AL",
+            "target_system": "BYD"
+        },
+        {
+            "sales_org": "8700",
+            "country": "PR",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "6800",
+            "country": "CA",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "0400",
+            "country": "LU",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2400",
+            "country": "NZ",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9200",
+            "country": "SA",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "9250",
+            "country": "AE",
+            "target_system": "H2"
+        },
+        {
+            "sales_org": "2600",
+            "country": "NO",
+            "target_system": "H2"
+        }
+    ]
+}'
