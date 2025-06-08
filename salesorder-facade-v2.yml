@@ -1,6 +1,5 @@
-config:
-  server:
-    testmessage: '{
+destination:
+  service: '{
     "data": [
         {
             "sales_org": "4900",
