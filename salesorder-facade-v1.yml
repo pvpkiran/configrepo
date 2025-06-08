@@ -1,0 +1,705 @@
+destination:
+  service: '{
+    "d": [
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(ID)"
+            },
+            "SalesOrg": "3900",
+            "BydSystemUrl": "https://my342729.sapbydesign.com",
+            "Country": "ID",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(VN)"
+            },
+            "SalesOrg": "4900",
+            "BydSystemUrl": "https://my338002.sapbydesign.com",
+            "Country": "VN",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(AE)"
+            },
+            "SalesOrg": "9250",
+            "BydSystemUrl": null,
+            "Country": "AE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(AL)"
+            },
+            "SalesOrg": "4850",
+            "BydSystemUrl": "https://my337668.sapbydesign.com",
+            "Country": "AL",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(AR)"
+            },
+            "SalesOrg": "8750",
+            "BydSystemUrl": null,
+            "Country": "AR",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(AT)"
+            },
+            "SalesOrg": "0001",
+            "BydSystemUrl": null,
+            "Country": "AT",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(AU)"
+            },
+            "SalesOrg": "2500",
+            "BydSystemUrl": null,
+            "Country": "AU",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BA)"
+            },
+            "SalesOrg": "8350",
+            "BydSystemUrl": "https://my337665.sapbydesign.com",
+            "Country": "BA",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BE)"
+            },
+            "SalesOrg": "0700",
+            "BydSystemUrl": null,
+            "Country": "BE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BG)"
+            },
+            "SalesOrg": "8900",
+            "BydSystemUrl": "https://my337670.sapbydesign.com",
+            "Country": "BG",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BH)"
+            },
+            "SalesOrg": "0290",
+            "BydSystemUrl": "https://my337655.sapbydesign.com",
+            "Country": "BH",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BR)"
+            },
+            "SalesOrg": "8300",
+            "BydSystemUrl": null,
+            "Country": "BR",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(BY)"
+            },
+            "SalesOrg": "4950",
+            "BydSystemUrl": "https://my337678.sapbydesign.com",
+            "Country": "BY",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CA)"
+            },
+            "SalesOrg": "6800",
+            "BydSystemUrl": null,
+            "Country": "CA",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CH)"
+            },
+            "SalesOrg": "2100",
+            "BydSystemUrl": null,
+            "Country": "CH",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CL)"
+            },
+            "SalesOrg": "8650",
+            "BydSystemUrl": null,
+            "Country": "CL",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CN)"
+            },
+            "SalesOrg": "0300",
+            "BydSystemUrl": null,
+            "Country": "CN",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CO)"
+            },
+            "SalesOrg": "0125",
+            "BydSystemUrl": "https://my337754.sapbydesign.com",
+            "Country": "CO",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(CZ)"
+            },
+            "SalesOrg": "8200",
+            "BydSystemUrl": null,
+            "Country": "CZ",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(DE)"
+            },
+            "SalesOrg": "5000",
+            "BydSystemUrl": null,
+            "Country": "DE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(DK)"
+            },
+            "SalesOrg": "2700",
+            "BydSystemUrl": null,
+            "Country": "DK",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(DZ)"
+            },
+            "SalesOrg": "4800",
+            "BydSystemUrl": "https://my337658.sapbydesign.com",
+            "Country": "DZ",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(EE)"
+            },
+            "SalesOrg": "3400",
+            "BydSystemUrl": "https://my337673.sapbydesign.com",
+            "Country": "EE",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(ES)"
+            },
+            "SalesOrg": "7000",
+            "BydSystemUrl": null,
+            "Country": "ES",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(FI)"
+            },
+            "SalesOrg": "3300",
+            "BydSystemUrl": null,
+            "Country": "FI",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(FR)"
+            },
+            "SalesOrg": "0900",
+            "BydSystemUrl": null,
+            "Country": "FR",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(GB)"
+            },
+            "SalesOrg": "4400",
+            "BydSystemUrl": null,
+            "Country": "GB",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(GR)"
+            },
+            "SalesOrg": "9000",
+            "BydSystemUrl": "https://my337675.sapbydesign.com",
+            "Country": "GR",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(HK)"
+            },
+            "SalesOrg": "2300",
+            "BydSystemUrl": null,
+            "Country": "HK",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(HR)"
+            },
+            "SalesOrg": "8850",
+            "BydSystemUrl": "https://my337664.sapbydesign.com",
+            "Country": "HR",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(HU)"
+            },
+            "SalesOrg": "8450",
+            "BydSystemUrl": null,
+            "Country": "HU",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(IE)"
+            },
+            "SalesOrg": "4600",
+            "BydSystemUrl": null,
+            "Country": "IE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(IL)"
+            },
+            "SalesOrg": "9100",
+            "BydSystemUrl": "https://my337659.sapbydesign.com",
+            "Country": "IL",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(IN)"
+            },
+            "SalesOrg": "4300",
+            "BydSystemUrl": "https://my340106.sapbydesign.com",
+            "Country": "IN",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(IT)"
+            },
+            "SalesOrg": "7500",
+            "BydSystemUrl": null,
+            "Country": "IT",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(JP)"
+            },
+            "SalesOrg": "2800",
+            "BydSystemUrl": null,
+            "Country": "JP",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(KR)"
+            },
+            "SalesOrg": "3700",
+            "BydSystemUrl": null,
+            "Country": "KR",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(KW)"
+            },
+            "SalesOrg": "4991",
+            "BydSystemUrl": "https://my337656.sapbydesign.com",
+            "Country": "KW",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(KZ)"
+            },
+            "SalesOrg": "9750",
+            "BydSystemUrl": "https://my337671.sapbydesign.com",
+            "Country": "KZ",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(LI)"
+            },
+            "SalesOrg": "2100",
+            "BydSystemUrl": null,
+            "Country": "LI",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(LU)"
+            },
+            "SalesOrg": "0400",
+            "BydSystemUrl": null,
+            "Country": "LU",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(MA)"
+            },
+            "SalesOrg": "2250",
+            "BydSystemUrl": "https://my337677.sapbydesign.com",
+            "Country": "MA",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(ME)"
+            },
+            "SalesOrg": "8590",
+            "BydSystemUrl": "https://my337668.sapbydesign.com",
+            "Country": "ME",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(MX)"
+            },
+            "SalesOrg": "3000",
+            "BydSystemUrl": null,
+            "Country": "MX",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(MY)"
+            },
+            "SalesOrg": "4200",
+            "BydSystemUrl": null,
+            "Country": "MY",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(NL)"
+            },
+            "SalesOrg": "0800",
+            "BydSystemUrl": null,
+            "Country": "NL",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(NZ)"
+            },
+            "SalesOrg": "2400",
+            "BydSystemUrl": null,
+            "Country": "NZ",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(OM)"
+            },
+            "SalesOrg": "4999",
+            "BydSystemUrl": "https://my337657.sapbydesign.com",
+            "Country": "OM",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(PH)"
+            },
+            "SalesOrg": "4100",
+            "BydSystemUrl": null,
+            "Country": "PH",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(PL)"
+            },
+            "SalesOrg": "3100",
+            "BydSystemUrl": null,
+            "Country": "PL",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(PT)"
+            },
+            "SalesOrg": "3200",
+            "BydSystemUrl": null,
+            "Country": "PT",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(QA)"
+            },
+            "SalesOrg": "8150",
+            "BydSystemUrl": "https://my337655.sapbydesign.com",
+            "Country": "QA",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(RO)"
+            },
+            "SalesOrg": "8600",
+            "BydSystemUrl": "https://my337669.sapbydesign.com",
+            "Country": "RO",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(RS)"
+            },
+            "SalesOrg": "8550",
+            "BydSystemUrl": "https://my337668.sapbydesign.com",
+            "Country": "RS",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(RU)"
+            },
+            "SalesOrg": "9800",
+            "BydSystemUrl": null,
+            "Country": "RU",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(SA)"
+            },
+            "SalesOrg": "9200",
+            "BydSystemUrl": null,
+            "Country": "SA",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(SE)"
+            },
+            "SalesOrg": "2600",
+            "BydSystemUrl": null,
+            "Country": "SE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(SG)"
+            },
+            "SalesOrg": "2900",
+            "BydSystemUrl": null,
+            "Country": "SG",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(SI)"
+            },
+            "SalesOrg": "8500",
+            "BydSystemUrl": "https://my337663.sapbydesign.com",
+            "Country": "SI",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(SK)"
+            },
+            "SalesOrg": "8400",
+            "BydSystemUrl": null,
+            "Country": "SK",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(TH)"
+            },
+            "SalesOrg": "4000",
+            "BydSystemUrl": null,
+            "Country": "TH",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(TR)"
+            },
+            "SalesOrg": "9050",
+            "BydSystemUrl": null,
+            "Country": "TR",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(TW)"
+            },
+            "SalesOrg": "3800",
+            "BydSystemUrl": null,
+            "Country": "TW",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(UA)"
+            },
+            "SalesOrg": "8800",
+            "BydSystemUrl": "https://my337674.sapbydesign.com",
+            "Country": "UA",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(US)"
+            },
+            "SalesOrg": "6000",
+            "BydSystemUrl": null,
+            "Country": "US",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(VE)"
+            },
+            "SalesOrg": "2000",
+            "BydSystemUrl": null,
+            "Country": "VE",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(ZA)"
+            },
+            "SalesOrg": "9150",
+            "BydSystemUrl": null,
+            "Country": "ZA",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(LK)"
+            },
+            "SalesOrg": "9999",
+            "BydSystemUrl": null,
+            "Country": "LK",
+            "TargetSystem": "H2"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(LT)"
+            },
+            "SalesOrg": "3600",
+            "BydSystemUrl": "https://my337676.sapbydesign.com",
+            "Country": "LT",
+            "TargetSystem": "BYD"
+        },
+        {
+            "metadata": {
+                "type": "hilti.account.Destinations.destination",
+                "uri": "https://internal-hc-dev-ccm-sharedservices-1662432922.eu-west-1.elb.amazonaws.com:443/ha-destinations/Destinations.svc/destinations(LV)"
+            },
+            "SalesOrg": "3500",
+            "BydSystemUrl": "https://my337672.sapbydesign.com",
+            "Country": "LV",
+            "TargetSystem": "BYD"
+        }
+    ]
+}'
